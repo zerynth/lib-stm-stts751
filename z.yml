@@ -1,0 +1,13 @@
+---
+description: Driver for ST Microelectronics STTS751 I2C temperature sensor
+fullname: lib.stm.stts751
+info:
+    chip_manufacturer: ST Microelectronics
+    chip_name: STTS751
+    name: Temperature Sensor
+    type: Actuator
+keywords:
+- stm
+- temerature
+title: SSTS751 temperature sensor
+...
